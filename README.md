@@ -1,2 +1,3 @@
 # MachineLearning
-Machine learning projects
+## Machine learning projects
+### 1. Explore Data
